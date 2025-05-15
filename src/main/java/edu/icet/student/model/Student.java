@@ -14,5 +14,5 @@ import org.springframework.stereotype.Service;
 public class Student {
     private String name;
     private String address;
-    private String age;
+    private Integer age;
 }
